@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './src/App.css';
+import './App.css';
 
 interface SatelliteScene {
   scene_id: string;
